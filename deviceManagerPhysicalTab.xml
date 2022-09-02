@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="ZY22DTZZSL" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-02T05:04:01.396942800Z" />
+        <name value="motorola motorola edge" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="98895448444136534a" />
           </Key>
         </key>
