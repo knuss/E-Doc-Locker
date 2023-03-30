@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="046853399F103401" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2023-03-30T19:58:57.610043200Z" />
+        <name value="TECNO MOBILE LIMITED TECNO KB7j" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="ZY22DTZZSL" />
           </Key>
         </key>
